@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miftahul Jannat</h1>
-<h3 align="center">👋 Assalamu Alaikum! I'm Miftahul Jannat 💻 I've completed HTML & CSS, currently learning JavaScript 🧠 Interested in Ethical Hacking (but not learning it yet)🌐 Passionate about web design and front-end development 🎯 Goal: To become a professional web developer 📚 I enjoy learning something new every day 📬 
+<h3 align="center">👋 Assalamu Alaikum! I'm Miftahul Jannat 💻 I've completed HTML & CSS, currently learning JavaScript  🌐 Passionate about web design and front-end development 🎯 Goal: To become a professional web developer 📚 I enjoy learning something new every day 📬 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miftahul220&label=Profile%20views&color=0e75b6&style=flat" alt="miftahul220" /> </p>
 
